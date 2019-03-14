@@ -1,0 +1,12 @@
+#############################################################
+
+# This document list the packegase need for the FaxLogParser
+
+# application.  All other libraries are native to the install 
+
+# for Python 3.6.6.
+
+#############################################################
+
+
+mysql-connector==2.1.6
